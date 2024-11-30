@@ -7,7 +7,7 @@ int main () {
     scanf("%d",&b);
 
     addition = a + b;
-    printf("The result of addition is : %d", addition);
+    printf("The result of addition is : %d\n", addition);
 
     return 0;
 }
